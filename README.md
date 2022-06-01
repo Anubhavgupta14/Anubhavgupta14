@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Anubhav</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97956667/171432786-2fa2bfbd-5516-485c-902d-87b9e09ac306.png" />
+
+
+
+</p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Anubhav</h1>
 <h3 align="center">Competative Programmer | Open Source Enthusiasts | Web Development | Cloud</h3>
+<h3 align="left">About Me:</h3>
+<div>- 🎓&nbsp;Student of Information Technology at MMMUT.</div>
+<div>- 🔥&nbsp;I am fond of coding and making projects.</div>
+<div>- 👨‍💻 Project-->[https://anubhavgupta14.github.io/Solution-Challange/](https://anubhavgupta14.github.io/Solution-Challange/)</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhavgupta14&label=Profile%20views&color=0e75b6&style=flat" alt="anubhavgupta14" /> </p>
+<div>- 📫 How to reach me **https://www.linkedin.com/in/anubhav-gupta-011164210/**</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavgupta14" alt="anubhavgupta14" /></a> </p>
-
-- 👨‍💻 Project [https://anubhavgupta14.github.io/Solution-Challange/](https://anubhavgupta14.github.io/Solution-Challange/)
-
-- 📫 How to reach me **https://www.linkedin.com/in/anubhav-gupta-011164210/**
-
-- ⚡ Fun fact **I like Computer Games.**
+<div>- ⚡ Fun fact **I like Computer Games.**</div>
+<div></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,9 +32,14 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://https://www.buymeacoffee.com/anubhavgu2p?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://github.com/Anubhavgupta14" /></a></p><br><br>
+<h3 align="left">My Stats:</h3>
+<p align="left" display="inline-block"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhavgupta14" alt="anubhavgupta14" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavgupta14&show_icons=true&locale=en&layout=compact" alt="anubhavgupta14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhavgupta14&show_icons=true&locale=en" alt="anubhavgupta14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavgupta14&" alt="anubhavgupta14" /></p>
+<h3 align="left">Top Language Used:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavgupta14&show_icons=true&locale=en&layout=compact" alt="anubhavgupta14" /></p>
+<br/>
+<img src="https://activity-graph.herokuapp.com/graph?username=Anubhavgupta14&theme=xcode" alt="Contribution Graph" align="center" />
