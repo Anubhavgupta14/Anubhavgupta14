@@ -12,7 +12,7 @@
 <h3 align="left">About Me:</h3>
 <div>- 🎓&nbsp;Student of Information Technology at MMMUT.</div>
 <div>- 🔥&nbsp;I am fond of coding and making projects.</div>
-<div>- 👨‍💻 Project-->[https://anubhavgupta14.github.io/Solution-Challange/](https://anubhavgupta14.github.io/Solution-Challange/)</div>
+<div>- 👨‍💻 Project-->https://anubhavgupta14.github.io/Solution-Challange/</div>
 
 <div>- 📫 How to reach me **https://www.linkedin.com/in/anubhav-gupta-011164210/**</div>
 
