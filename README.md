@@ -47,4 +47,3 @@
 <h3 align="left">Top Language Used:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavgupta14&show_icons=true&locale=en&layout=compact" alt="anubhavgupta14" /></p>
 <br/>
-<img src="https://activity-graph.herokuapp.com/graph?username=Anubhavgupta14&theme=xcode" alt="Contribution Graph" align="center" />
