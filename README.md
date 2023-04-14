@@ -13,6 +13,7 @@
 <div>- 🎓&nbsp;Student of Information Technology at MMMUT.</div>
 <div>- 🔥&nbsp;I am fond of coding and making projects.</div>
 <div>- 🔥Under Top 20 Contributor in SSOC 2022.</div>
+<div>- 🔥Mentor at SWOC 3.0</div>
 <div>- 🔥Completed Hacktoberfest 2022.</div>
 <div>-  Projects</div>
 <div>- 👨‍💻 Portfolio-->http://www.gowithcode.xyz</div>
