@@ -1,29 +1,28 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/97956667/182621449-cabf1f4c-aef1-4a10-a26a-c844c8022ff3.png" />
-
-
-
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Anubhav</h1>
-<h3 align="center">Competative Programmer | Open Source Enthusiasts | Web Development | Cloud</h3>
+<h3 align="center">Full Stack Developer | Open Source Enthusiasts | DSA | Freelance</h3>
 <h3 align="left">About Me:</h3>
 <div>- 🎓&nbsp;Student of Information Technology at MMMUT.</div>
-<div>- 🔥&nbsp;Full Stack Intern at Zerror Studios</div>
-<div>- 🔥&nbsp;I am fond of coding and making projects.</div>
+<div>- 🔥&nbsp;Full Stack Developer</div>
+<div>- 🔥&nbsp;I build optimized web apps in less time.</div>
 <div>- 🔥Under Top 20 Contributor in SSOC 2022.</div>
 <div>- 🔥Mentor at SWOC 3.0</div>
 <div>- 🔥Completed Hacktoberfest 2022.</div>
 <div>-  Projects</div>
-<div>- 👨‍💻 Portfolio-->https://anubhavgupta14.github.io/My_Portfolio/</div>
+<div>- 👨‍💻 SoulVedic Store-->[https://anubhavgupta14.github.io/My_Portfolio/](https://soul-vedic-project.vercel.app/)</div>
+<div>- 👨‍💻 Real Time Weather Monitoring-->[https://gowithweather.vercel.app](https://gowithweather.vercel.app)</div>
+<div>- 👨‍💻 Portfolio-->https://gowithcode.dev</div>
 <div>- 👨‍💻 Design Engg-->https://dsign-engg.vercel.app/</div>
 <div>- 👨‍💻 Donation Collection Portel-->https://anubhavgupta14.github.io/Smile-Foundation/</div>
 
 <div>- 📫 How to reach me https://www.linkedin.com/in/anubhavgupta14</div>
 
-<div>- ⚡ Fun fact **I like Computer Games.**</div>
+<div>- ⚡ Code & Just Chill</div>
 <div></div>
 
 <h3 align="left">Connect with me:</h3>
