@@ -14,8 +14,8 @@
 <div>- 🔥Mentor at SWOC 3.0</div>
 <div>- 🔥Completed Hacktoberfest 2022.</div>
 <div>-  Projects</div>
-<div>- 👨‍💻 SoulVedic Store-->[https://anubhavgupta14.github.io/My_Portfolio/](https://soul-vedic-project.vercel.app/)</div>
-<div>- 👨‍💻 Real Time Weather Monitoring-->[https://gowithweather.vercel.app](https://gowithweather.vercel.app)</div>
+<div>- 👨‍💻 SoulVedic Store-->https://anubhavgupta14.github.io/My_Portfolio/</div>
+<div>- 👨‍💻 Real Time Weather Monitoring-->https://gowithweather.vercel.app</div>
 <div>- 👨‍💻 Portfolio-->https://gowithcode.dev</div>
 <div>- 👨‍💻 Design Engg-->https://dsign-engg.vercel.app/</div>
 <div>- 👨‍💻 Donation Collection Portel-->https://anubhavgupta14.github.io/Smile-Foundation/</div>
